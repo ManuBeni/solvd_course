@@ -1,11 +1,11 @@
 # solvd_course
 Solvd.inc Course
 
-* HomeWork
+* ##HomeWork
   - Car factory excercise.
 
-* LinkedList
+* ##LinkedList
   - Custom Linked List Class.
 
-* Word Counter
+* ##Word Counter
   - Counter of unique words in a file via apache.commons
