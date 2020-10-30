@@ -1,0 +1,7 @@
+2020-10-27 08:10:06,617 INFO c.s.l.Test [main] List: Mario, Manuel, Christian, Raul
+2020-10-27 08:10:06,621 INFO c.s.l.Test [main] Added object Sara on index 2: List: Mario, Manuel, Sara, Christian, Raul
+2020-10-27 08:10:06,621 INFO c.s.l.Test [main] Size: 5
+2020-10-27 08:10:06,622 INFO c.s.l.Test [main] Index 2: Sara
+2020-10-27 08:10:06,622 INFO c.s.l.Test [main] Index 3: Christian
+2020-10-27 08:10:06,622 INFO c.s.l.Test [main] Object Manuel removed: List: Mario, Sara, Christian, Raul
+2020-10-27 08:10:06,622 INFO c.s.l.Test [main] Reversed list: List: Raul, Christian, Sara, Mario
