@@ -12,3 +12,4 @@ Solvd.inc Course.
   
 * ## SQL 
   - MySQL Workbench model and querys.
+  
